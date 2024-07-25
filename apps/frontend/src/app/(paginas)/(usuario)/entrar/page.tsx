@@ -1,3 +1,4 @@
+'use client'
 import { Suspense } from 'react'
 import FormUsuario from '@/components/usuario/FormUsuario'
 
